@@ -1,7 +1,7 @@
-![1](https://user-images.githubusercontent.com/136653792/257000781-c9ea9605-7a8a-457d-90ec-60c4c29b4003.jpeg)
+![1](https://raw.githubusercontent.com/sbr-rodrigues/Perfil_SabrinaRodrigues/refs/heads/main/Perfil%20Sabrina.png)
 <div  align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Sabrina+Barbosa+Rodrigues;cloud+school+student;I+from+Brasil,+RJ;I+study+DataAnalytics+UniUniasselviUniversity;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Sabrina+Barbosa+Rodrigues;Cloud+school+student;I+from+Brasil,+RJ;I+study+Data+Analytics+Uniasselvi+University;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
