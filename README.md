@@ -82,7 +82,7 @@ Thank you for visiting my profile, and let's embark together on this journey of 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabrinaRodrigues&theme=tokyonight)
 
-![snake gif](https://github.com/SabrinaRodrigues/SabrinaRodrigues/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sbr-rodrigues/sbr-rodrigues/blob/output/github-contribution-grid-snake.gif)
  
 
 
