@@ -1,11 +1,19 @@
 <div align="center">
 
+![1](https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/img.png) <div align="center">
 <img src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/img.png" alt="Imagem de capa" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Sabrina+Barbosa+Rodrigues;Cloud+School+student;I%27m+from+Brasil,+RJ;I+study+Data+Analytics+at+Uniasselvi+University;Welcome!+%3A))](https://git.io/typing-svg)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/img.png" alt="Imagem de capa" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Sabrina+Barbosa+Rodrigues;Cloud+School+student;I'm+from+Brasil,+RJ;I+study+Data+Analytics+at+Uniasselvi+University;Welcome!+%3A))](https://git.io/typing-svg)
 
 <p><b>Visitors Count</b></p>
-<p><img src="https://profile-counter.glitch.me/{SabrinaRodrigues}/count.svg" alt="Visitors Count" /></p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sbr-rodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="sbr-rodrigues" />
+</p>
 
 </div>
 
