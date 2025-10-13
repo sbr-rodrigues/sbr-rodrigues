@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/img.png" alt="Imagem de capa" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Sabrina+Barbosa+Rodrigues;Cloud+School+student;I'm+from+Brasil,+RJ;I+study+Data+Analytics+at+Uniasselvi+University;Welcome!+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Sabrina+Barbosa+Rodrigues;Cloud+School+student;I'm+from+Brasil,+RJ;I+study+Data+Analytics+at+Uniasselvi+University;Welcome!+%3A))(https://git.io/typing-svg)]
 
 <p><b>Visitors Count</b></p>
 <p>
