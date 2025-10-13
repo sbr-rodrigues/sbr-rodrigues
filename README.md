@@ -4,10 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Sabrina+Barbosa+Rodrigues;Cloud+School+student;I%27m+from+Brasil,+RJ;I+study+Data+Analytics+at+Uniasselvi+University;Welcome!+%3A))](https://git.io/typing-svg)
 
-<p><em>O contador de visitantes não está disponível</em></p>
-
 <p><b>Visitors Count</b></p>
-<p><img src="https://profile-counter.glitch.me/SabrinaRodrigues/count.svg" alt="Visitors Count" /></p>
+<p><img src="https://profile-counter.glitch.me/{SabrinaRodrigues}/count.svg" alt="Visitors Count" /></p>
 
 </div>
 
