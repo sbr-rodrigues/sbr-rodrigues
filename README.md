@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/main/img.png" alt="Imagem de capa" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Sabrina+Barbosa+Rodrigues;Cloud+School+student;I'm+from+Brasil,+RJ;I+study+Systems+Analytics+at+Uniasselvi+University;Welcome!+%3A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Sabrina+Barbosa+Rodrigues;Cloud+School+student;I'm+from+Brazil,+RJ;I+study+Systems+Analytics+at+Uniasselvi+University;Welcome!" alt="Typing SVG" />
   </a>
 
   <p><b>Visitors Count</b></p>
