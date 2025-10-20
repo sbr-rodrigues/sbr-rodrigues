@@ -25,8 +25,8 @@
 
 <h2>📚 Education & Courses</h2>
 
-<<p><strong>🔹Degree</strong>: Systems Analysis and Development – Uniasselvi University</p>
-<p><strong>Additional Courses</strong>:</p>
+<p><strong>🔹Degree</strong>: Systems Analysis and Development – Uniasselvi University</p>
+<p><strong>🔹Additional Courses</strong>:</p>
 <ul>
 <li>Information Security</li>
 <li>Computer Architecture</li>
