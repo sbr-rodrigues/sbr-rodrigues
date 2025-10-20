@@ -74,20 +74,14 @@
 <p>Here are some of my GitHub stats and milestones. I'm just getting started, but every step counts!</p>
 
 <h3>🔹 Profile Summary</h3>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/output/github-contribution-grid-snake.svg">
-</picture>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SabrinaRodrigues&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<h3>🔹 Trophies & Points</h3>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabrinaRodrigues&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabrinaRodrigues&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabrinaRodrigues&theme=tokyonight" />
 
+<h3>🔹 Trophies & Points</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SabrinaRodrigues&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <h2>🤝 Let's Connect!</h2>
 <p>I'm open to partnerships, collaborative projects, and idea exchanges! If you'd like to chat, share knowledge, or build something together, I'd love to hear from you.</p>
@@ -103,6 +97,15 @@
 <a href="https://www.linkedin.com/in/sabrina-rodrigues-36b820270/" target="_blank" rel="noreferrer">
   <img alt="LinkedIn" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png?20210220164014" />
 </a>
+<br>
 <a href="https://sbr-rodrigues.github.io/Profile/" target="_blank" rel="noreferrer">
   <img alt="Cartão de visita digital" height="50px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/15422/15422754.png" />
 
+<h2>✨ Quote</h2>
+<p>Technology moves the world, but it's people who give it meaning</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/output/github-contribution-grid-snake.svg">
+</picture>
