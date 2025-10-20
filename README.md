@@ -92,7 +92,7 @@
 <h2>🤝 Let's Connect!</h2>
 <p>I'm open to partnerships, collaborative projects, and idea exchanges! If you'd like to chat, share knowledge, or build something together, I'd love to hear from you.</p>
 <a href="https://sbr-rodrigues.github.io/Profile/" target="_blank" rel="noreferrer">
-  <img alt="Cartão de visita digital" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon_card.png" />
+  <img alt="Cartão de visita digital" height="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon_card.png" />
 </a>
 <br>
 <a href="mailto:sabrina.idev@gmail.com" target="_blank" rel="noreferrer">
@@ -108,7 +108,7 @@
 </a>
 <br>
 <a href="https://x.com/SabrinaIdev" target="_blank" rel="noreferrer">
-  <img alt="X twitter" height="45px" style="padding-right:10px;" src="https://tse2.mm.bing.net/th/id/OIP.Xn27U1Y5z0KR-wPnCt-v0QHaG0?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" />
+  <img alt="X twitter" height="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon_x.png" />
 </a>
 <h2>✨ Quote</h2>
 <p>Technology moves the world, but it's people who give it meaning</p>
