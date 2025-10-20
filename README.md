@@ -91,12 +91,12 @@
   <img alt="Gmail" height="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <br>
-<a href="https://wa.me/5521976655246?text=Bem+vindo+%21+me+chamo%2C+Sabrina+Rodrigues" target="_blank" rel="noreferrer">
-  <img alt="Zap" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
-</a>
-<br>
 <a href="https://www.linkedin.com/in/sabrina-rodrigues-36b820270/" target="_blank" rel="noreferrer">
   <img alt="LinkedIn" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png?20210220164014" />
+</a>
+<br>
+<a href="https://wa.me/5521976655246?text=Bem+vindo+%21+me+chamo%2C+Sabrina+Rodrigues" target="_blank" rel="noreferrer">
+  <img alt="Zap" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
 </a>
 <br>
 <a href="https://sbr-rodrigues.github.io/Profile/" target="_blank" rel="noreferrer">
