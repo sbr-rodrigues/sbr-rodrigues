@@ -104,7 +104,7 @@
 </a>
 <br>
 <a href="https://wa.me/5521976655246?text=Bem+vindo+%21+me+chamo%2C+Sabrina+Rodrigues" target="_blank" rel="noreferrer">
-  <img alt="Zap" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon_x.png" />
+  <img alt="Zap" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon%20whatsapp.png" />
 </a>
 <br>
 <a href="https://x.com/SabrinaIdev" target="_blank" rel="noreferrer">
