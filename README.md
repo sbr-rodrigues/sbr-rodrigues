@@ -100,15 +100,15 @@
 </a>
 <br>
 <a href="https://www.linkedin.com/in/sabrina-rodrigues-36b820270/" target="_blank" rel="noreferrer">
-  <img alt="LinkedIn" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon_link.png" />
+  <img alt="LinkedIn" height="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon_link.png" />
 </a>
 <br>
 <a href="https://wa.me/5521976655246?text=Bem+vindo+%21+me+chamo%2C+Sabrina+Rodrigues" target="_blank" rel="noreferrer">
-  <img alt="Zap" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon%20whatsapp.png" />
+  <img alt="Zap" height="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon%20whatsapp.png" />
 </a>
 <br>
 <a href="https://x.com/SabrinaIdev" target="_blank" rel="noreferrer">
-  <img alt="X twitter" height="50px" style="padding-right:10px;" src="https://tse2.mm.bing.net/th/id/OIP.Xn27U1Y5z0KR-wPnCt-v0QHaG0?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" />
+  <img alt="X twitter" height="45px" style="padding-right:10px;" src="https://tse2.mm.bing.net/th/id/OIP.Xn27U1Y5z0KR-wPnCt-v0QHaG0?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" />
 </a>
 <h2>✨ Quote</h2>
 <p>Technology moves the world, but it's people who give it meaning</p>
