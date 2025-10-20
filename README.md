@@ -93,7 +93,7 @@
 <p>I'm open to partnerships, collaborative projects, and idea exchanges! If you'd like to chat, share knowledge, or build something together, I'd love to hear from you.</p>
 
 <a href="mailto:sabrina.idev@gmail.com" target="_blank" rel="noreferrer">
-  <img alt="Gmail" height="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  <img alt="Gmail" height="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon%20email.png" />
 </a>
 <br>
 <a href="https://www.linkedin.com/in/sabrina-rodrigues-36b820270/" target="_blank" rel="noreferrer">
