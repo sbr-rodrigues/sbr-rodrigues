@@ -16,15 +16,15 @@
 <p>Hello! I'm Sabrina Rodrigues, passionate about technology, innovation, and continuous learning. I'm currently a Systems Analysis and Development student at Uniasselvi University, and I'm paving my way to become an IT Consultant focused on smart and sustainable solutions.</p>
 <p>Beyond technology, I'm passionate about music, reading, and nature. I believe that balance between mind, body, and spirit is essential for a fulfilling and productive life. I value empathy, collaboration, and respect in all relationships.</p>
 
-<h2>🎯 Goals<h2>
-<ol>
+<h2>🎯 Goals</h2>
+<ul>
 <li>Develop solutions that turn data into strategic decisions</li>
 <li>Work with Artificial Intelligence, Machine Learning, and Computer Architecture.</li>
 <li>Contribute to projects that promote digital inclusion and social impact.</li>
-</ol>
+</ul>
 
 <h2>📚 Education & Courses</h2>
-<ol>
+<ul>
 <li><strong>Degree</strong>: Systems Analysis and Development – Uniasselvi University</li>
 <li><strong>Additional Courses</strong>:</li>
 <li>Information Security</li>
@@ -38,7 +38,7 @@
 <li>Python Language Fundamentals for Data Analysis</li>
 <li>Introduction to Artificial Intelligence</li>
 <li>Fundamentals of Digital Marketing</li>
-</ol>
+</ul>
 
 <h2>My main technologies:</h2>
 
