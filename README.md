@@ -40,7 +40,7 @@
 <li>Introduction to Artificial Intelligence</li>
 <li>Fundamentals of Digital Marketing</li>
 </ul>
-
+<h2>
 <h2>My main technologies:</h2>
 
 <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank" rel="noreferrer">
@@ -101,6 +101,10 @@
 <br>
 <a href="https://sbr-rodrigues.github.io/Profile/" target="_blank" rel="noreferrer">
   <img alt="Cartão de visita digital" height="50px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/15422/15422754.png" />
+<br>
+<a href="https://x.com/SabrinaIdev" target="_blank" rel="noreferrer">
+  <img alt="X twitter" height="50px" style="padding-right:10px;" src="https://tse2.mm.bing.net/th/id/OIP.Xn27U1Y5z0KR-wPnCt-v0QHaG0?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" />
+</a>
 
 <h2>✨ Quote</h2>
 <p>Technology moves the world, but it's people who give it meaning</p>
