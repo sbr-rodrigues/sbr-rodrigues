@@ -70,7 +70,12 @@
 <a href="https://github.com/SabrinaRodrigues" target="_blank" rel="noreferrer">
   <img alt="Github" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
+<h2>🚧 Projects</h2>
+<p>⚠️ This section is under construction.</p>
+<p>I'm currently working on exciting projects that will be showcased here soon. Stay tuned!</p>  
+<!-- Future project cards will go here -->
 
+---
 <h2>🏆 GitHub Achievement</h2>
 <p>Here are some of my GitHub stats and milestones. I'm just getting started, but every step counts!</p>
 
