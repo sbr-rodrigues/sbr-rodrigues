@@ -91,27 +91,25 @@
 
 <h2>🤝 Let's Connect!</h2>
 <p>I'm open to partnerships, collaborative projects, and idea exchanges! If you'd like to chat, share knowledge, or build something together, I'd love to hear from you.</p>
-
+<a href="https://sbr-rodrigues.github.io/Profile/" target="_blank" rel="noreferrer">
+  <img alt="Cartão de visita digital" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon_card.png" />
+</a>
+<br>
 <a href="mailto:sabrina.idev@gmail.com" target="_blank" rel="noreferrer">
-  <img alt="Gmail" height="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon%20email.png" />
+  <img alt="Gmail" height="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon_email.png" />
 </a>
 <br>
 <a href="https://www.linkedin.com/in/sabrina-rodrigues-36b820270/" target="_blank" rel="noreferrer">
-  <img alt="LinkedIn" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png?20210220164014" />
+  <img alt="LinkedIn" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon_link.png" />
 </a>
 <br>
-<a href="https://sbr-rodrigues.github.io/Profile/" target="_blank" rel="noreferrer">
-  <img alt="Cartão de visita digital" height="50px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/15422/15422754.png" />
+<a href="https://wa.me/5521976655246?text=Bem+vindo+%21+me+chamo%2C+Sabrina+Rodrigues" target="_blank" rel="noreferrer">
+  <img alt="Zap" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon_x.png" />
 </a>
 <br>
 <a href="https://x.com/SabrinaIdev" target="_blank" rel="noreferrer">
   <img alt="X twitter" height="50px" style="padding-right:10px;" src="https://tse2.mm.bing.net/th/id/OIP.Xn27U1Y5z0KR-wPnCt-v0QHaG0?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" />
 </a>
-<br>
-<a href="https://wa.me/5521976655246?text=Bem+vindo+%21+me+chamo%2C+Sabrina+Rodrigues" target="_blank" rel="noreferrer">
-  <img alt="Zap" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
-</a>
-
 <h2>✨ Quote</h2>
 <p>Technology moves the world, but it's people who give it meaning</p>
 
