@@ -11,23 +11,34 @@
   </p>
 </div>
 
-<h2>Hello, there!</h2>
+<h2>👩‍💻 About Me</h2>
 
-<p>Welcome to my GitHub profile! I am a technology enthusiast currently studying Systems Analysis and Development at Uniasselvi University, class of 2024.</p>
+<p>Hello! I'm Sabrina Rodrigues, passionate about technology, innovation, and continuous learning. I'm currently a Systems Analysis and Development student at Uniasselvi University, and I'm paving my way to become an IT Consultant focused on smart and sustainable solutions.</p>
+<p>Beyond technology, I'm passionate about music, reading, and nature. I believe that balance between mind, body, and spirit is essential for a fulfilling and productive life. I value empathy, collaboration, and respect in all relationships.</p>
 
-<p>I believe that technology is one of the driving forces behind the world, and therefore, I see the position of IT Consultant as something essential in my professional journey. I constantly seek to improve and expand my knowledge, which led me to take a Cloud Computing course, adding valuable skills to my resume.</p>
+<h2>🎯 Goals<h2>
+<ol>
+<li>Develop solutions that turn data into strategic decisions</li>
+<li>Work with Artificial Intelligence, Machine Learning, and Computer Architecture.</li>
+<li>Contribute to projects that promote digital inclusion and social impact.</li>
+</ol>
 
-<p>Currently, my focus is on enhancing my skills in programming, computer architecture, and web systems development. Additionally, I am dedicating myself to learning Artificial Intelligence and Machine Learning to deepen my understanding of these cutting-edge technologies that allow computers to simulate human intelligence.</p>
-
-<p>In my leisure time, I enjoy interacting with my family and friends, photography, physical exercise, appreciating nature, and engaging in cultural and touristic travels, finding the perfect balance between work and play.</p>
-
-<p>I am always open to new challenges and collaboration opportunities. Therefore, feel free to explore my projects on GitHub and get in touch to discuss ideas, collaborations, or simply share experiences about technology and development.</p>
-
-<p>Thank you for visiting my profile, and let's embark together on this journey of learning and growth in this vast and astonishing technological universe.</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SabrinaRodrigues&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<h2>📚 Education & Courses</h2>
+<ol>
+<li><strong>Degree</strong>: Systems Analysis and Development – Uniasselvi University</li>
+<li><strong>Additional Courses</strong>:</li>
+<li>Information Security</li>
+<li>Computer Architecture</li>
+<li>Data Analytics</li>
+<li>FinOps Focus</li>
+<li>FinOps Foundations</li>
+<li>AWS Certified Cloud Practitioner</li>
+<li>AWS Re/Start Program</li>
+<li>Introduction to Cloud Computing & Azure</li>
+<li>Python Language Fundamentals for Data Analysis</li>
+<li>Introduction to Artificial Intelligence</li>
+<li>Fundamentals of Digital Marketing</li>
+</ol>
 
 <h2>My main technologies:</h2>
 
@@ -59,26 +70,39 @@
   <img alt="Github" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
 
-<h2>Connect with me:</h2>
+<h2>🏆 GitHub Achievement</h2>
+<p>Here are some of my GitHub stats and milestones. I'm just getting started, but every step counts!</p>
 
-<a href="mailto:sabrina.idev@gmail.com" target="_blank" rel="noreferrer">
-  <img alt="Gmail" height="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-</a>
-<a href="https://wa.me/5521976655246?text=Bem+vindo+%21+me+chamo%2C+Sabrina+Rodrigues+." target="_blank" rel="noreferrer">
-  <img alt="Zap" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sabrina-rodrigues-36b820270/" target="_blank" rel="noreferrer">
-  <img alt="LinkedIn" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png?20210220164014" />
-</a>
-
-<br />
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabrinaRodrigues&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabrinaRodrigues&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabrinaRodrigues&theme=tokyonight" />
-
+<h3>🔹 Profile Summary</h3>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/output/github-contribution-grid-snake.svg">
 </picture>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SabrinaRodrigues&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<h3>🔹 Trophies & Points</h3>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabrinaRodrigues&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabrinaRodrigues&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabrinaRodrigues&theme=tokyonight" />
+
+
+<h2>🤝 Let's Connect!</h2>
+<p>I'm open to partnerships, collaborative projects, and idea exchanges! If you'd like to chat, share knowledge, or build something together, I'd love to hear from you.</p>
+
+<a href="mailto:sabrina.idev@gmail.com" target="_blank" rel="noreferrer">
+  <img alt="Gmail" height="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
+<br>
+<a href="https://wa.me/5521976655246?text=Bem+vindo+%21+me+chamo%2C+Sabrina+Rodrigues" target="_blank" rel="noreferrer">
+  <img alt="Zap" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
+</a>
+<br>
+<a href="https://www.linkedin.com/in/sabrina-rodrigues-36b820270/" target="_blank" rel="noreferrer">
+  <img alt="LinkedIn" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png?20210220164014" />
+</a>
+<a href="https://sbr-rodrigues.github.io/Profile/" target="_blank" rel="noreferrer">
+  <img alt="Cartão de visita digital" height="50px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/15422/15422754.png" />
+
