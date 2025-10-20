@@ -95,12 +95,13 @@
   <img alt="LinkedIn" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png?20210220164014" />
 </a>
 <br>
+<a href="https://sbr-rodrigues.github.io/Profile/" target="_blank" rel="noreferrer">
+  <img alt="Cartão de visita digital" height="50px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/15422/15422754.png" />
+</a>
+<br>
 <a href="https://wa.me/5521976655246?text=Bem+vindo+%21+me+chamo%2C+Sabrina+Rodrigues" target="_blank" rel="noreferrer">
   <img alt="Zap" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
 </a>
-<br>
-<a href="https://sbr-rodrigues.github.io/Profile/" target="_blank" rel="noreferrer">
-  <img alt="Cartão de visita digital" height="50px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/15422/15422754.png" />
 <br>
 <a href="https://x.com/SabrinaIdev" target="_blank" rel="noreferrer">
   <img alt="X twitter" height="50px" style="padding-right:10px;" src="https://tse2.mm.bing.net/th/id/OIP.Xn27U1Y5z0KR-wPnCt-v0QHaG0?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" />
