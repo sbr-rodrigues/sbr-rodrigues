@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Sabrina+Rodrigues;Systems+Analyst;I'm+from+Brazil,+RJ;Turning+data+into+decisions;and+systems+into+solutions;Welcome!" alt="Typing SVG" />
   </a>
-
+  
   <p><b>Visitors Count</b></p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=sbr-rodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="sbr-rodrigues" />
@@ -17,6 +17,7 @@
 <p>Beyond technology, I'm passionate about music, reading, and nature. I believe that balance between mind, body, and spirit is essential for a fulfilling and productive life. I value empathy, collaboration, and respect in all relationships.</p>
 
 <h2>🎯 Goals</h2>
+
 <ul>
 <li>Develop solutions that turn data into strategic decisions</li>
 <li>Work with Artificial Intelligence, Machine Learning, and Computer Architecture.</li>
@@ -27,6 +28,7 @@
 
 <p><strong>🔹Degree</strong>: Systems Analysis and Development – Uniasselvi University</p>
 <p><strong>🔹Additional Courses</strong>:</p>
+
 <ul>
 <li>Information Security</li>
 <li>Computer Architecture</li>
@@ -41,6 +43,7 @@
 <li>Fundamentals of Digital Marketing</li>
 </ul>
 <h2>
+  
 <h2>My main technologies:</h2>
 
 <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank" rel="noreferrer">
@@ -70,32 +73,37 @@
 <a href="https://github.com/SabrinaRodrigues" target="_blank" rel="noreferrer">
   <img alt="Github" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
+
 <h2>🚧 Projects</h2>
+
 <p>#💞Website - Fanfic</p>
 <p>## 🌸 About the Project</p>
-
 <p>This is a static website built with HTML and CSS, hosted on GitHub Pages. It features:<p>
 <ul>
-- A background video (`papel.mp4`) used as a romantic wallpaper.
-- Sections dedicated to iconic characters such as **Dongfang Qingcang**, **Tantai Jin**, and **Murong Jinghe**.
-- Centered and captioned images that highlight unforgettable moments.
-- A responsive and stylish layout with soft transparency to enhance the content over the video.
+<li>A background video (`papel.mp4`) used as a romantic wallpaper.</li>
+<li>Sections dedicated to iconic characters such as **Dongfang Qingcang**, **Tantai Jin**, and **Murong Jinghe**.</li>
+<li>Centered and captioned images that highlight unforgettable moments.</li>
+<li>A responsive and stylish layout with soft transparency to enhance the content over the video.</li>
 </ul>
 
 <h2>🏆 GitHub Achievement</h2>
+
 <p>Here are some of my GitHub stats and milestones. I'm just getting started, but every step counts!</p>
 
 <h3>🔹 Profile Summary</h3>
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabrinaRodrigues&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabrinaRodrigues&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabrinaRodrigues&theme=tokyonight" />
 
 <h3>🔹 Trophies & Points</h3>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SabrinaRodrigues&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <h2>🤝 Let's Connect!</h2>
+
 <p>I'm open to partnerships, collaborative projects, and idea exchanges! If you'd like to chat, share knowledge, or build something together, I'd love to hear from you.</p>
 <a href="https://sbr-rodrigues.github.io/Profile/" target="_blank" rel="noreferrer">
   <img alt="Cartão de visita digital" height="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon_card.png" />
@@ -116,7 +124,9 @@
 <a href="https://x.com/SabrinaIdev" target="_blank" rel="noreferrer">
   <img alt="X twitter" height="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sbr-rodrigues/sbr-rodrigues/refs/heads/main/Icon_x.png" />
 </a>
+
 <h2>✨ Quote</h2>
+
 <p>Technology moves the world, but it's people who give it meaning</p>
 
 <picture align="center">
