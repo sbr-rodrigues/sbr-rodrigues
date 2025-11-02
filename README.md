@@ -71,11 +71,17 @@
   <img alt="Github" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
 <h2>🚧 Projects</h2>
-<p>⚠️ This section is under construction.</p>
-<p>I'm currently working on exciting projects that will be showcased here soon. Stay tuned!</p>  
-<!-- Future project cards will go here -->
+<p>#💞Website - Fanfic</p>
+<p>## 🌸 About the Project</p>
 
----
+<p>This is a static website built with HTML and CSS, hosted on GitHub Pages. It features:<p>
+<ul>
+- A background video (`papel.mp4`) used as a romantic wallpaper.
+- Sections dedicated to iconic characters such as **Dongfang Qingcang**, **Tantai Jin**, and **Murong Jinghe**.
+- Centered and captioned images that highlight unforgettable moments.
+- A responsive and stylish layout with soft transparency to enhance the content over the video.
+</ul>
+
 <h2>🏆 GitHub Achievement</h2>
 <p>Here are some of my GitHub stats and milestones. I'm just getting started, but every step counts!</p>
 
