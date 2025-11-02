@@ -86,7 +86,7 @@
 <li>A responsive and stylish layout with soft transparency to enhance the content over the video.</li>
 </ul>
 <h3>##📸 Preview</h3>
-<p>Site preview:
+<p>Site preview: https://sbr-rodrigues.github.io/website-fanfic/</p>
 
 <h3>#Page video-music</h3>
 <p>##🎬 About the Project</p>
