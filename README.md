@@ -103,9 +103,7 @@
 
 <h3>Amigurumi</h3>
 <p>##🎬 About the Project</p>
-<p>The project was developed to demonstrate good practices in file organization for a static website.</p>
-<p>All resources (images and icons) are stored in the media/ folder.</p>  
-<p>Secondary pages are placed in subfolders (about/), and links use absolute URLs to ensure compatibility with GitHub Pages.</p>
+<p>The project was developed to demonstrate good practices in file organization for a static website. All resources (images and icons) are stored in the media/ folder.Secondary pages are placed in subfolders (about/), and links use absolute URLs to ensure compatibility with GitHub Pages.</p>
 <h3>##📸 Preview</h3>
 <p> **Main page:**  
   👉 <p>https://sbr-rodrigues.github.io/Amigurumi/</p>
