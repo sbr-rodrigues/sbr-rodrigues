@@ -114,9 +114,9 @@
 <ul>
   <li>Colorful and responsive interface</li>
   <li>Custom sounds for victory, defeat, and background music</li>
-  <li>- Rules explained with emojis for easy understanding</li>
+  <li>Rules explained with emojis for easy understanding</li>
   <li>Turn control: the game only continues if the player chooses to!</li>
-  <li>- Final scoreboard displayed when the game ends</li>
+  <li>Final scoreboard displayed when the game ends</li>
   <h3>##📸 Preview</h3>
   <p>Site preview: https://sbr-rodrigues.github.io/Jogo-jokepow/</p>
 </ul>
