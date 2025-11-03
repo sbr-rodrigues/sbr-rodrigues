@@ -101,12 +101,25 @@
 <h3>##📸 Preview</h3>
 <p>Site preview: https://sbr-rodrigues.github.io/Page-video-music/</p>
 
-<h3>Amigurumi</h3>
+<h3>#Amigurumi</h3>
 <p>##🎬 About the Project</p>
 <p>The project was developed to demonstrate good practices in file organization for a static website. All resources (images and icons) are stored in the media/ folder.Secondary pages are placed in subfolders (about/), and links use absolute URLs to ensure compatibility with GitHub Pages.</p>
 <h3>##📸 Preview</h3>
 <p> **Main page: 👉 <p>https://sbr-rodrigues.github.io/Amigurumi/</p>
 <p> **Secondary page (About): 👉 <p>https://sbr-rodrigues.github.io/Amigurumi/about/index.html</p>
+
+<h3>#JoKenpow</h3>
+<p>##🎬 About the Project</p>
+<p>##JOK-E-POW is a classic Rock, Paper, Scissors game with a vibrant interface, personalized sounds, and a fun browser-based experience.</p>
+<ul>
+  <li>Colorful and responsive interface</li>
+  <li>Custom sounds for victory, defeat, and background music</li>
+  <li>- Rules explained with emojis for easy understanding</li>
+  <li>Turn control: the game only continues if the player chooses to!</li>
+  <li>- Final scoreboard displayed when the game ends</li>
+  <h3>##📸 Preview</h3>
+  <p>Site preview: https://sbr-rodrigues.github.io/Jogo-jokepow/</p>
+</ul>
 
 <h2>🏆 GitHub Achievement</h2>
 
