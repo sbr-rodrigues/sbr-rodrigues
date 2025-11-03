@@ -107,10 +107,10 @@
 <p>All resources (images and icons) are stored in the media/ folder.</p>  
 <p>Secondary pages are placed in subfolders (about/), and links use absolute URLs to ensure compatibility with GitHub Pages.</p>
 <h3>##📸 Preview</h3>
-<p> **Página principal:**  
-  👉 [https://sbr-rodrigues.github.io/Amigurumi/](https://sbr-rodrigues.github.io/Amigurumi/)/</p>
-  <p> **Página complementar (About):**  
-  👉 [https://sbr-rodrigues.github.io/Amigurumi/about/](https://sbr-rodrigues.github.io/Amigurumi/about/)
+<p> **Main page:**  
+  👉 <p>https://sbr-rodrigues.github.io/Amigurumi/</p>
+  <p> **Secondary page (About):**  
+  👉 <p>https://sbr-rodrigues.github.io/Amigurumi/about/index.html</p>
 </p>
 
 <h2>🏆 GitHub Achievement</h2>
