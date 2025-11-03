@@ -92,23 +92,26 @@
 <p>##🎬 About the Project</p>
 <p>This project is a static web page that celebrates the universe of the Chinese drama Till the End of the Moon, starring Luo Yunxi as Tantai Jin. The goal is to offer an immersive experience with:</p>
 <ul>
-  <li>🎥 A teaser video from the drama</li>
-  <li>🎶 An emotional soundtrack featuring the song “Mysterious Bird”</li>
-  <li>🖼️ A fixed, responsive themed wallpaper</li>
-  <li>🌙 A custom browser tab icon</li>
-<p> wrapped in an elegant and responsive interface, with soft typography and colors that match the mood of the series.</p>
-
-<h3>##✨ Features</h3>
-<ul>
   <li>Native video playback with controls</li>
   <li>Looping music playback</li>
   <li>Responsive design with fixed background image</li>
   <li>Lyrics in Pinyin, Mandarin, and English</li>
   <li>Custom favicon for the browser tab</li>
-
+</ul>
 <h3>##📸 Preview</h3>
 <p>Site preview: https://sbr-rodrigues.github.io/Page-video-music/</p>
 
+<h3>Amigurumi</h3>
+<p>##🎬 About the Project</p>
+<p>The project was developed to demonstrate good practices in file organization for a static website.</p>
+<p>All resources (images and icons) are stored in the media/ folder.</p>  
+<p>Secondary pages are placed in subfolders (about/), and links use absolute URLs to ensure compatibility with GitHub Pages.</p>
+<h3>##📸 Preview</h3>
+<p> **Página principal:**  
+  👉 [https://sbr-rodrigues.github.io/Amigurumi/](https://sbr-rodrigues.github.io/Amigurumi/)/</p>
+  <p> **Página complementar (About):**  
+  👉 [https://sbr-rodrigues.github.io/Amigurumi/about/](https://sbr-rodrigues.github.io/Amigurumi/about/)
+</p>
 
 <h2>🏆 GitHub Achievement</h2>
 
