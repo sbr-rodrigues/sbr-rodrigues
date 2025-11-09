@@ -15,6 +15,7 @@
 
 <p>Hello! I'm Sabrina Rodrigues, passionate about technology, innovation, and continuous learning. I'm currently a Systems Analysis and Development student at Uniasselvi University, and I'm paving my way to become an IT Consultant focused on smart and sustainable solutions.</p>
 <p>Beyond technology, I'm passionate about music, reading, and nature. I believe that balance between mind, body, and spirit is essential for a fulfilling and productive life. I value empathy, collaboration, and respect in all relationships.</p>
+<p>I'm available for collaborations on web development projects, especially those involving front-end technologies like HTML, CSS, and JavaScript. I'm also open to exchanging ideas, learning together, and contributing to creative digital solutions. Feel free to say Hey if you're working on something exciting or just want to connect and share knowledge!</p>
 
 <h2>🎯 Goals</h2>
 
