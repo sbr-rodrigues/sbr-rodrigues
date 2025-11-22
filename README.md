@@ -118,9 +118,23 @@
   <li>Rules explained with emojis for easy understanding</li>
   <li>Turn control: the game only continues if the player chooses to!</li>
   <li>Final scoreboard displayed when the game ends</li>
+  </ul>
   <h3>##📸 Preview</h3>
   <p>Site preview: https://sbr-rodrigues.github.io/Jogo-jokepow/</p>
+
+<h3>#Jogo da Forca - Hangman</h3>
+<p>##About the Project</p>
+<p>##A simple Hangman game developed in HTML, CSS, and JavaScript, where the player must guess the secret word before the stick figure is hanged
+</p>
+<ul>
+  <li>Random selection of words from a predefined list</li>
+  <li>Visual display of the hangman’s progress with each mistake</li>
+  <li>Shows letters already used</li>
+  <li>- Victory when the word is completed correctly</li>
+  <li>- Defeat when the maximum number of errors is reached</li>  
 </ul>
+<h3>##📸 Preview</h3>
+  <p>Site preview: https://sbr-rodrigues.github.io/Jogo-jokepow/</p>
 
 <h2>🏆 GitHub Achievement</h2>
 
