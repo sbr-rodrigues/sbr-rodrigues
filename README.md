@@ -134,7 +134,7 @@
   <li>- Defeat when the maximum number of errors is reached</li>  
 </ul>
 <h3>##📸 Preview</h3>
-  <p>Site preview: https://sbr-rodrigues.github.io/Jogo-jokepow/</p>
+  <p>Site preview: https://sbr-rodrigues.github.io/Jogo-da-forca---HANGMAN/</p>
 
 <h2>🏆 GitHub Achievement</h2>
 
