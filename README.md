@@ -136,6 +136,11 @@
 <h3>##📸 Preview</h3>
   <p>Site preview: https://sbr-rodrigues.github.io/Jogo-da-forca---HANGMAN/</p>
 
+<h3>#Pasticcenaria Raffinateza</h3>
+<p>##About the Project</p>
+<p>##A project created to showcase a sophisticated pastry shop inspired by classic Italian cafés. Here you’ll find traditional coffees, artisanal desserts, and an elegant visual experience — all developed in HTML and CSS, with attention to design, usability, and customization.</p>
+<h3>##📸 Preview</h3>
+<p>Site Preview</p>
 <h2>🏆 GitHub Achievement</h2>
 
 <p>Here are some of my GitHub stats and milestones. I'm just getting started, but every step counts!</p>
