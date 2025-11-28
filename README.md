@@ -111,7 +111,7 @@
 
 <h3>#JoKenpow</h3>
 <p>##🎬 About the Project</p>
-<p>##JOK-E-POW is a classic Rock, Paper, Scissors game with a vibrant interface, personalized sounds, and a fun browser-based experience.</p>
+<p>JOK-E-POW is a classic Rock, Paper, Scissors game with a vibrant interface, personalized sounds, and a fun browser-based experience.</p>
 <ul>
   <li>Colorful and responsive interface</li>
   <li>Custom sounds for victory, defeat, and background music</li>
@@ -124,8 +124,7 @@
 
 <h3>#Jogo da Forca - Hangman</h3>
 <p>##About the Project</p>
-<p>##A simple Hangman game developed in HTML, CSS, and JavaScript, where the player must guess the secret word before the stick figure is hanged
-</p>
+<p>A simple Hangman game developed in HTML, CSS, and JavaScript, where the player must guess the secret word before the stick figure is hanged</p>
 <ul>
   <li>Random selection of words from a predefined list</li>
   <li>Visual display of the hangman’s progress with each mistake</li>
@@ -134,13 +133,23 @@
   <li>- Defeat when the maximum number of errors is reached</li>  
 </ul>
 <h3>##📸 Preview</h3>
-  <p>Site preview: https://sbr-rodrigues.github.io/Jogo-da-forca---HANGMAN/</p>
+<p>Site preview: https://sbr-rodrigues.github.io/Jogo-da-forca---HANGMAN/</p>
+
+<h3>##🌸 Dicas da Afrodite — Beauty Week Website</h3>
+<p>##About the Project</p>
+<p>A elegant and feminine mini-website created to present Dicas da Afrodite, a beauty-themed project with workshops, skincare routines, self-care guidance and a charming aesthetic inspired by softness, wellbeing and feminine empowerment.</p>
+<p>This project was built using HTML and CSS, with a strong focus on pleasant layout, readability, usability and visual harmony.</p>
+<p>All media files are organized inside the /media folder, and the styling is handled through a separate style.css file.</p>
+<h3>##📸 Preview</h3>
+<p>Site Preview: https://sbr-rodrigues.github.io/belezaweb/</p>
 
 <h3>#Pasticcenaria Raffinateza</h3>
 <p>##About the Project</p>
 <p>##A project created to showcase a sophisticated pastry shop inspired by classic Italian cafés. Here you’ll find traditional coffees, artisanal desserts, and an elegant visual experience — all developed in HTML and CSS, with attention to design, usability, and customization.</p>
 <h3>##📸 Preview</h3>
-<p>Site Preview</p>
+<p>Site Preview: https://sbr-rodrigues.github.io/Pasticcenaria-Raffinatezza/</p>
+
+
 <h2>🏆 GitHub Achievement</h2>
 
 <p>Here are some of my GitHub stats and milestones. I'm just getting started, but every step counts!</p>
