@@ -7,7 +7,7 @@
   
   <p><b>Visitors Count</b></p>
   <p>
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=sbr-rodrigues&countColor=%23263759)](https://visitorbadge.io/status?path=sbr-rodrigues)
+  <a href="https://visitorbadge.io/status?path=sbr-rodrigues"><img src="https://api.visitorbadge.io/api/visitors?path=sbr-rodrigues&countColor=%23263759" /></a>
   </p>
 </div>
 
