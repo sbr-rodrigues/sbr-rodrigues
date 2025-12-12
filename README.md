@@ -7,7 +7,7 @@
   
   <p><b>Visitors Count</b></p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=sbr-rodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="sbr-rodrigues" />
+  [![Visitors](https://api.visitorbadge.io/api/visitors?path=sbr-rodrigues&countColor=%23263759)](https://visitorbadge.io/status?path=sbr-rodrigues)
   </p>
 </div>
 
