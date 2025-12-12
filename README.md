@@ -145,10 +145,21 @@
 
 <h3>#Pasticcenaria Raffinateza</h3>
 <p>##About the Project</p>
-<p>##A project created to showcase a sophisticated pastry shop inspired by classic Italian cafés. Here you’ll find traditional coffees, artisanal desserts, and an elegant visual experience — all developed in HTML and CSS, with attention to design, usability, and customization.</p>
+<p>A project created to showcase a sophisticated pastry shop inspired by classic Italian cafés. Here you’ll find traditional coffees, artisanal desserts, and an elegant visual experience — all developed in HTML and CSS, with attention to design, usability, and customization.</p>
 <h3>##📸 Preview</h3>
 <p>Site Preview: https://sbr-rodrigues.github.io/Pasticcenaria-Raffinatezza/</p>
 
+<h3>#Nikel – Front-End Project (Codaí 2.0)</h3>
+<p>##About the Project</p>
+<p>Nikel is a front-end project developed during the Codaí 2.0 - Front-End training program by Growdev.</p>
+<p>The application aims to simulate a personal financial management system, allowing users to:</p>
+<ul>
+  <li>Create an account</li>
+  <li>Log in and log out</li>
+  <li>Record income and expenses</li>
+  <li>Track their balance in a simple and practical way</li>
+<h3>##📸 Preview</h3>
+<p>git clone https://github.com/sbr-rodrigues/Nikel</p>
 
 <h2>🏆 GitHub Achievement</h2>
 
