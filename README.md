@@ -79,26 +79,13 @@
 
 <h3>#💞Website - Fanfic</h3>
 <p>## 🌸 About the Project</p>
-<p>This is a static website built with HTML and CSS, hosted on GitHub Pages. It features:<p>
-<ul>
-<li>A background video (`papel.mp4`) used as a romantic wallpaper.</li>
-<li>Sections dedicated to iconic characters such as **Dongfang Qingcang**, **Tantai Jin**, and **Murong Jinghe**.</li>
-<li>Centered and captioned images that highlight unforgettable moments.</li>
-<li>A responsive and stylish layout with soft transparency to enhance the content over the video.</li>
-</ul>
+<p>This is a static website built with HTML and CSS, hosted on GitHub Pages. A responsive and stylish layout with soft transparency to enhance the content over the video<p>
 <h3>##📸 Preview</h3>
 <p>Site preview: https://sbr-rodrigues.github.io/website-fanfic/</p>
 
 <h3>#Page video-music</h3>
 <p>##🎬 About the Project</p>
-<p>This project is a static web page that celebrates the universe of the Chinese drama Till the End of the Moon, starring Luo Yunxi as Tantai Jin. The goal is to offer an immersive experience with:</p>
-<ul>
-  <li>Native video playback with controls</li>
-  <li>Looping music playback</li>
-  <li>Responsive design with fixed background image</li>
-  <li>Lyrics in Pinyin, Mandarin, and English</li>
-  <li>Custom favicon for the browser tab</li>
-</ul>
+<p>This project is a static web page the goal is to offer an immersive experience with: native video playback with controls, looping music playback, responsive design with fixed background image </p>
 <h3>##📸 Preview</h3>
 <p>Site preview: https://sbr-rodrigues.github.io/Page-video-music/</p>
 
@@ -112,34 +99,18 @@
 <h3>#JoKenpow</h3>
 <p>##🎬 About the Project</p>
 <p>JOK-E-POW is a classic Rock, Paper, Scissors game with a vibrant interface, personalized sounds, and a fun browser-based experience.</p>
-<ul>
-  <li>Colorful and responsive interface</li>
-  <li>Custom sounds for victory, defeat, and background music</li>
-  <li>Rules explained with emojis for easy understanding</li>
-  <li>Turn control: the game only continues if the player chooses to!</li>
-  <li>Final scoreboard displayed when the game ends</li>
-  </ul>
-  <h3>##📸 Preview</h3>
-  <p>Site preview: https://sbr-rodrigues.github.io/Jogo-jokepow/</p>
+<h3>##📸 Preview</h3>
+<p>Site preview: https://sbr-rodrigues.github.io/Jogo-jokepow/</p>
 
 <h3>#Jogo da Forca - Hangman</h3>
 <p>##About the Project</p>
 <p>A simple Hangman game developed in HTML, CSS, and JavaScript, where the player must guess the secret word before the stick figure is hanged</p>
-<ul>
-  <li>Random selection of words from a predefined list</li>
-  <li>Visual display of the hangman’s progress with each mistake</li>
-  <li>Shows letters already used</li>
-  <li>- Victory when the word is completed correctly</li>
-  <li>- Defeat when the maximum number of errors is reached</li>  
-</ul>
 <h3>##📸 Preview</h3>
 <p>Site preview: https://sbr-rodrigues.github.io/Jogo-da-forca---HANGMAN/</p>
 
-<h3>##🌸 Dicas da Afrodite — Beauty Week Website</h3>
+<h3>##🌸 Aphrodite’s Tips — Beauty Week Website</h3>
 <p>##About the Project</p>
-<p>A elegant and feminine mini-website created to present Dicas da Afrodite, a beauty-themed project with workshops, skincare routines, self-care guidance and a charming aesthetic inspired by softness, wellbeing and feminine empowerment.</p>
-<p>This project was built using HTML and CSS, with a strong focus on pleasant layout, readability, usability and visual harmony.</p>
-<p>All media files are organized inside the /media folder, and the styling is handled through a separate style.css file.</p>
+<p>This project was built using HTML and CSS, with a strong focus on pleasant layout, readability, usability and visual harmony. All media files are organized inside the /media folder, and the styling is handled through a separate style.css file</p>
 <h3>##📸 Preview</h3>
 <p>Site Preview: https://sbr-rodrigues.github.io/belezaweb/</p>
 
@@ -151,13 +122,7 @@
 
 <h3>#Nikel – Front-End Project (Codaí 2.0)</h3>
 <p>##About the Project</p>
-<p>Nikel is a front-end project developed during the Codaí 2.0 - Front-End training program by Growdev.</p>
-<p>The application aims to simulate a personal financial management system, allowing users to:</p>
-<ul>
-  <li>Create an account</li>
-  <li>Log in and log out</li>
-  <li>Record income and expenses</li>
-  <li>Track their balance in a simple and practical way</li>
+<p>Nikel is a front-end project developed during the Codaí 2.0 - Front-End training program by Growdev. The application aims to simulate a personal financial management system.</p>
 <h3>##📸 Preview</h3>
 <p>git clone https://github.com/sbr-rodrigues/Nikel</p>
 
