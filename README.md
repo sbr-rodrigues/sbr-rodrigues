@@ -106,7 +106,7 @@ It combines the Whisper model (OpenAI) for transcription, ChatGPT (OpenAI) for i
 <p>A project created to showcase a sophisticated pastry shop inspired by classic Italian cafés. Here you’ll find traditional coffees, artisanal desserts, and an elegant visual experience — all developed in HTML and CSS, with attention to design, usability, and customization.</p>
 <p>Site Preview: https://sbr-rodrigues.github.io/Pasticcenaria-Raffinatezza/</p>
 
-<h3>##🌸 Aphrodite’s Tips — Beauty Week Website</h3>
+<h3>##Aphrodite’s Tips — Beauty Week Website</h3>
 <p>This project was built using HTML and CSS, with a strong focus on pleasant layout, readability, usability and visual harmony. All media files are organized inside the /media folder, and the styling is handled through a separate style.css file</p>
 <p>Site Preview: https://sbr-rodrigues.github.io/belezaweb/</p>
 
@@ -127,7 +127,7 @@ It combines the Whisper model (OpenAI) for transcription, ChatGPT (OpenAI) for i
 <p>This project is a static web page the goal is to offer an immersive experience with: native video playback with controls, looping music playback, responsive design with fixed background image </p>
 <p>Site preview: https://sbr-rodrigues.github.io/Page-video-music/</p>
 
-<h3>#💞Website - Fanfic</h3>
+<h3>#Website - Fanfic</h3>
 <p>This is a static website built with HTML and CSS, hosted on GitHub Pages. A responsive and stylish layout with soft transparency to enhance the content over the video</p>
 <p>Site preview: https://sbr-rodrigues.github.io/website-fanfic/</p>
 
