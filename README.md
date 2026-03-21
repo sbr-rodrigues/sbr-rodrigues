@@ -77,84 +77,58 @@
 
 <h2>🚧 Projects</h2>
 
-<h3>#EasyData-Wireframe-UX-UI-DIO- (@digitalinnovationone) </h3>
-<p>##About the Project</p>
+<h3>#EasyData-Wireframe-UX-UI-DIO- (@digitalinnovationone)</h3>
 <p>This project presents a Design System developed based on the wireframe created in the previous DIO challenge. (@digitalinnovationone)</p>
-<h3>##📸 Preview</h3>
 <p>git clone https://github.com/sbr-rodrigues/EasyData-Wireframe-UX-UI-DIO-</p>
 
 <h3>#lab-natty-or-not (@digitalinnovationone)</h3>
-<p>##About the Project</p>
 <p>This project aims to visually and interactively demonstrate how artificial intelligence is transforming human-computer interaction, enabling users to transfer files between devices using only hand gestures.</p>
-<h3>##📸 Preview</h3>
 <p>git clone https://github.com/sbr-rodrigues/lab-natty-or-not</p>
 
 <h3>#dio-lab-bia-do-futuro (@digitalinnovationone)</h3>
-<p>##About the Project</p>
 <p>This project demonstrates, in a practical way, the development of a financial chatbot using Python, Streamlit, and LLM integration (Ollama), focusing on investment guidance, liquidity, and risk classification.</p>
-<h3>##📸 Preview</h3>
 <p>git clone https://github.com/sbr-rodrigues/dio-lab-bia-do-futuro</p>
 
 <h3>#voice-assistant-multi-idiomas (@digitalinnovationone)</h3>
-<p>##About the Project</p>
 <p>This project enables voice-based conversations in multiple languages by integrating transcription, translation, and speech synthesis.
 It combines the Whisper model (OpenAI) for transcription, ChatGPT (OpenAI) for intelligent responses, and Google Text-to-Speech (gTTS) to generate spoken output.</p>
-<h3>##📸 Preview</h3>
 <p>git clone https://github.com/sbr-rodrigues/voice-assistant-multi-idiomas</p>
 
 <h3>#Conversa-com-Peter-Lync (@digitalinnovationone)</h3>
-<p>##About the Project</p>
 <p>This project was developed as part of a course from Digital Innovation One, using the NotebookLM platform to organize and generate multimedia content about Peter Lynch’s investment methodology.</p>
-<h3>##📸 Preview</h3>
 <p>git clone https://github.com/sbr-rodrigues/Conversa-com-Peter-Lynch</p>
 
 <h3>#Nikel – Front-End Project (Codaí 2.0)</h3>
-<p>##About the Project</p>
 <p>Nikel is a front-end project developed during the Codaí 2.0 - Front-End training program by Growdev. The application aims to simulate a personal financial management system.</p>
-<h3>##📸 Preview</h3>
 <p>git clone https://github.com/sbr-rodrigues/Nikel</p>
 
 <h3>#Pasticcenaria Raffinateza</h3>
-<p>##About the Project</p>
 <p>A project created to showcase a sophisticated pastry shop inspired by classic Italian cafés. Here you’ll find traditional coffees, artisanal desserts, and an elegant visual experience — all developed in HTML and CSS, with attention to design, usability, and customization.</p>
-<h3>##📸 Preview</h3>
 <p>Site Preview: https://sbr-rodrigues.github.io/Pasticcenaria-Raffinatezza/</p>
 
 <h3>##🌸 Aphrodite’s Tips — Beauty Week Website</h3>
-<p>##About the Project</p>
 <p>This project was built using HTML and CSS, with a strong focus on pleasant layout, readability, usability and visual harmony. All media files are organized inside the /media folder, and the styling is handled through a separate style.css file</p>
-<h3>##📸 Preview</h3>
 <p>Site Preview: https://sbr-rodrigues.github.io/belezaweb/</p>
 
 <h3>#Jogo da Forca - Hangman</h3>
-<p>##About the Project</p>
 <p>A simple Hangman game developed in HTML, CSS, and JavaScript, where the player must guess the secret word before the stick figure is hanged</p>
-<h3>##📸 Preview</h3>
 <p>Site preview: https://sbr-rodrigues.github.io/Jogo-da-forca---HANGMAN/</p>
 
 <h3>#JoKenpow</h3>
-<p>##🎬 About the Project</p>
 <p>JOK-E-POW is a classic Rock, Paper, Scissors game with a vibrant interface, personalized sounds, and a fun browser-based experience.</p>
-<h3>##📸 Preview</h3>
 <p>Site preview: https://sbr-rodrigues.github.io/Jogo-jokepow/</p>
 
 <h3>#Amigurumi</h3>
-<p>##🎬 About the Project</p>
 <p>The project was developed to demonstrate good practices in file organization for a static website. All resources (images and icons) are stored in the media/ folder.Secondary pages are placed in subfolders (about/), and links use absolute URLs to ensure compatibility with GitHub Pages.</p>
-<h3>##📸 Preview</h3>
 <p> **Main page: 👉 <p>https://sbr-rodrigues.github.io/Amigurumi/</p>
 <p> **Secondary page (About): 👉 <p>https://sbr-rodrigues.github.io/Amigurumi/about/index.html</p>
 
 <h3>#Page video-music</h3>
-<p>##🎬 About the Project</p>
 <p>This project is a static web page the goal is to offer an immersive experience with: native video playback with controls, looping music playback, responsive design with fixed background image </p>
-<h3>##📸 Preview</h3>
 <p>Site preview: https://sbr-rodrigues.github.io/Page-video-music/</p>
 
 <h3>#💞Website - Fanfic</h3>
-<p>## 🌸 About the Project</p>
-<p>This is a static website built with HTML and CSS, hosted on GitHub Pages. A responsive and stylish layout with soft transparency to enhance the content over the video<p>
-<h3>##📸 Preview</h3>
+<p>This is a static website built with HTML and CSS, hosted on GitHub Pages. A responsive and stylish layout with soft transparency to enhance the content over the video</p>
 <p>Site preview: https://sbr-rodrigues.github.io/website-fanfic/</p>
 
 <h2>🏆 GitHub Achievement</h2>
