@@ -77,8 +77,12 @@
 
 <h2>🚧 Projects</h2>
 
+<h3>#viagem_app(@digitalinnovationone)</h3>
+<p>The project was created with a focus on usability, information organization, and simple navigation, allowing the user to find destinations, explore options, and plan their trip in a practical way.</p>
+<p>git clone https://github.com/sbr-rodrigues/viagem_app/blob/main/README.md</p>
+
 <h3>#EasyData-Wireframe-UX-UI-DIO- (@digitalinnovationone)</h3>
-<p>This project presents a Design System developed based on the wireframe created in the previous DIO challenge. (@digitalinnovationone)</p>
+<p>This project presents a Design System developed based on the wireframe created in the previous DIO challenge.</p>
 <p>git clone https://github.com/sbr-rodrigues/EasyData-Wireframe-UX-UI-DIO-</p>
 
 <h3>#lab-natty-or-not (@digitalinnovationone)</h3>
