@@ -78,12 +78,12 @@
 <h2>🚧 Projects</h2>
 <h3>#Fraudes (@digitalinnovationone)</h3>
 <p>Projeto de Machine Learning para detecção de fraudes em transações financeiras, utilizando técnicas de balanceamento de dados, diferentes algoritmos de classificação (Logística, Random Forest, XGBoost) e interpretação com SHAP.</p>
-<p>git clone https://github.com/sbr-rodrigues/Pasticcenaria_raffinatezza.app/blob/main/README.md </p>
+<p>git clone https://github.com/sbr-rodrigues/fraude.ipynb</p>
 
 <h3>#Pasticcenaria_raffnatezza.app (@digitalinonationone)</h3>
 <p>Transform the existing repository (bakery website/menu) into a mobile application that provides a practical, intuitive, and elegant experience.</p>
 <p>The goal is to allow customers to access the menu, recipes, and bakery information quickly and seamlessly directly from their mobile devices.[figma](https://www.figma.com/design/iGTTir1lME84cn0hhOUXv1/Pasticcenaria-Raffinatezza.App?node-id=39-587&t=WKcnmqEKPIRDPk0G-0)</p>
-<p>git clone https://github.com/sbr-rodrigues/Pasticcenaria_raffinatezza.app/blob/main/README.md </p>
+<p>git clone https://github.com/sbr-rodrigues/Pasticcenaria_raffinatezza.app/blob/main/README.md</p>
 
 <h3>#viagem_app(@digitalinnovationone)</h3>
 <p>The project was created with a focus on usability, information organization, and simple navigation, allowing the user to find destinations, explore options, and plan their trip in a practical way.</p>
