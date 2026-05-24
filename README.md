@@ -76,6 +76,9 @@
 </a>
 
 <h2>🚧 Projects</h2>
+<h3>#Fraudes (@digitalinnovationone)</h3>
+<p>Projeto de Machine Learning para detecção de fraudes em transações financeiras, utilizando técnicas de balanceamento de dados, diferentes algoritmos de classificação (Logística, Random Forest, XGBoost) e interpretação com SHAP.</p>
+<p>git clone https://github.com/sbr-rodrigues/Pasticcenaria_raffinatezza.app/blob/main/README.md </p>
 
 <h3>#Pasticcenaria_raffnatezza.app (@digitalinonationone)</h3>
 <p>Transform the existing repository (bakery website/menu) into a mobile application that provides a practical, intuitive, and elegant experience.</p>
