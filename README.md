@@ -76,6 +76,10 @@
 </a>
 
 <h2>🚧 Projects</h2>
+<h3>#Dashboard_porsche (@digitalinnovationone)</h3>
+<p>Sales dashboard based on data sanitized by AI tools, using the Porsche brand as a practical example</p>
+<p>git clone https://github.com/sbr-rodrigues/Dashboard_porsche</p>
+
 <h3>#Fraudes (@digitalinnovationone)</h3>
 <p>Projeto de Machine Learning para detecção de fraudes em transações financeiras, utilizando técnicas de balanceamento de dados, diferentes algoritmos de classificação (Logística, Random Forest, XGBoost) e interpretação com SHAP.</p>
 <p>git clone https://github.com/sbr-rodrigues/fraude.ipynb</p>
