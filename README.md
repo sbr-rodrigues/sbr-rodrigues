@@ -24,9 +24,9 @@
 <h2>🎯 Goals</h2>
 
 <ul>
-<li>Develop solutions that turn data into strategic decisions</li>
-<li>Work with Artificial Intelligence, Machine Learning, and Computer Architecture.</li>
-<li>Contribute to projects that promote digital inclusion and social impact.</li>
+<li>Develop solutions that transform data into strategic decisions.</li>
+<li>Work with Artificial Intelligence, Machine Learning, and Computer Architecture to drive innovation.</li>
+<li>Contribute to projects that foster digital inclusion and create measurable social impact.</li>
 </ul>
 
 <h2>📚 Education & Courses</h2>
@@ -38,14 +38,10 @@
 <li>Information Security</li>
 <li>Computer Architecture</li>
 <li>Data Analytics</li>
-<li>FinOps Focus</li>
-<li>FinOps Foundations</li>
 <li>AWS Certified Cloud Practitioner</li>
 <li>AWS Re/Start Program</li>
-<li>Introduction to Cloud Computing & Azure</li>
 <li>Python Language Fundamentals for Data Analysis</li>
 <li>Introduction to Artificial Intelligence</li>
-<li>Fundamentals of Digital Marketing</li>
 </ul>
 <h2>
   
